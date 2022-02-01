@@ -100,7 +100,6 @@ module.exports = {
       __VERSION__: JSON.stringify(packageJson.version),
       __NAME__: JSON.stringify(packageJson.name),
       __CONFIG__: JSON.stringify(configJs),
-      "process.env.CLIENT_ID": JSON.stringify(process.env.CLIENT_ID),
     }),
     new HtmlWebpackPlugin({
       template: "./src/index.html",
