@@ -1,3 +1,3 @@
 module.exports = {
-    extends: '@groww-tech/stylelint-config'
+    extends: "@groww-tech/stylelint-config",
 }

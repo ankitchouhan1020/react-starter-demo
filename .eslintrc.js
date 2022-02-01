@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['groww-tech'],
+    extends: [ "@groww-tech/eslint-config" ],
     settings: {
         "import/resolver": {
             "webpack": {

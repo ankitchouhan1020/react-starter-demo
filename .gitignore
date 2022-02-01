@@ -17,3 +17,6 @@ package-lock.json
 build
 lib
 .DS_Store
+
+tsconfig.tsbuildinfo
+yarn.lock
